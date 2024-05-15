@@ -1,3 +1,7 @@
 # Communicate using markdown
 
-## Activity: Edit your file with headers
+## Activity 1: Edit your file with headers
+
+## Activity 2: Adding an image
+
+![Manchester United Logo](https://images2.alphacoders.com/969/969536.jpg)
