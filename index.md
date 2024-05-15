@@ -12,3 +12,8 @@
 ``` python
 print("Hello world!")
 ```
+## Activity 4: Adding a task list
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
